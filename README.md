@@ -1,4 +1,4 @@
-# Contenizar una aplicación Nodejs con docker
+# Contenizar una aplicación Python con docker
 
 ![Python + Docker](/img/Python+Docker.jpg)
 

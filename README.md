@@ -12,7 +12,7 @@ Esta sección explicará como desplegar un contenedor de una app Python en un ku
 2. Crear una imagen docker y luego ejecutarla
 3. Adecuar el ambiente local de Kubernetes con algún servicio que permita gestionar clúster local, en este caso vamos a usar WSL2
 ### Nota: 
-Kubernetes solo corra nativamente en distribuciones Linux.
+Kubernetes solo corre nativamente en distribuciones Linux.
 
 ## Contenido
 
